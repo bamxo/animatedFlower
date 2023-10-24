@@ -5,7 +5,7 @@ Features:
 Realistic flower animation.
 Smooth, interactive user experience.
 Demo
-You can view a live demo of the animated flower here: Animated Flower Demo
+You can view a live demo of the animated flower here: [Animated Flower Demo](https://bamxo.github.io/animatedFlower/)
 
 How to Use:
 Clone this repository to your local machine.
