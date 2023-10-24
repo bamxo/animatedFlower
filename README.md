@@ -9,7 +9,9 @@ You can view a live demo of the animated flower here: Animated Flower Demo
 
 How to Use
 Clone this repository to your local machine.
-git clone https://github.com/your-username/animated-flower.git
+
+git clone https://github.com/bamxo/flower.git
+
 Open the index.html file in your web browser.
 
 Enjoy the calming animation of the flower swaying.
