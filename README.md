@@ -10,7 +10,7 @@ You can view a live demo of the animated flower here: Animated Flower Demo
 How to Use:
 Clone this repository to your local machine.
 
-git clone https://github.com/bamxo/flower.git
+git clone https://github.com/bamxo/animatedFlower.git
 
 Open the index.html file in your web browser.
 
